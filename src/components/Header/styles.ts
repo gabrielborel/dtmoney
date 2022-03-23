@@ -1,0 +1,47 @@
+import styled from 'styled-components';
+import { HiSun, HiMoon } from 'react-icons/hi';
+
+export const Container = styled.header`
+  background-color: ${({ theme }) => theme.blue};
+`;
+
+export const Content = styled.div`
+  max-width: 1120px;
+  margin: 0 auto;
+
+  padding: 2rem 1rem 12rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  button {
+    font-size: 1rem;
+    color: #fff;
+    background-color: ${({ theme }) => theme.blueLight};
+    border: 0;
+    padding: 0 2rem;
+    border-radius: 0.25rem;
+    height: 3rem;
+
+    transition: filter 0.2s;
+
+    &:hover {
+      filter: brightness(0.9);
+    }
+  }
+`;
+
+export const MoonIcon = styled(HiMoon)`
+  width: 35px;
+  height: 35px;
+  color: white;
+  cursor: pointer;
+`;
+
+export const SunIcon = styled(HiSun)`
+  width: 35px;
+  height: 35px;
+  color: white;
+  cursor: pointer;
+`;
