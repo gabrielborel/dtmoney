@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dtmoney/static/css/main.d740beb4.css",
+    "main.js": "/dtmoney/static/js/main.a20220d2.js",
+    "static/media/logo.svg": "/dtmoney/static/media/logo.614d71d1db9fdf3ca2355f05ed3b0142.svg",
+    "static/media/loading-balls2.svg": "/dtmoney/static/media/loading-balls2.c876f469b27f6ec8aa1e33bc3963fd41.svg",
+    "index.html": "/dtmoney/index.html",
+    "static/media/loading-circle.svg": "/dtmoney/static/media/loading-circle.da796e7fe904114e13eb1f4d2e3b78cd.svg",
+    "static/media/total.svg": "/dtmoney/static/media/total.e90c2d1e4d0cdd036cc577afd9f496eb.svg",
+    "static/media/outcome.svg": "/dtmoney/static/media/outcome.6eb96d3079777422e5bd5deaa688a46e.svg",
+    "static/media/income.svg": "/dtmoney/static/media/income.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
+    "static/media/close.svg": "/dtmoney/static/media/close.f62862c6571367515ce17c7b4e77a1fc.svg",
+    "main.d740beb4.css.map": "/dtmoney/static/css/main.d740beb4.css.map",
+    "main.a20220d2.js.map": "/dtmoney/static/js/main.a20220d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d740beb4.css",
+    "static/js/main.a20220d2.js"
+  ]
+}
